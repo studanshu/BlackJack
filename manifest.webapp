@@ -1,0 +1,13 @@
+{
+  "name": "My App",
+  "description": "Black Jack",
+  "launch_path": "/",
+  "icons": {
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Swapnil, Sudhanshu, Vivian",
+    "url": "http://your-homepage-here.org"
+  },
+  "default_locale": "en"
+}

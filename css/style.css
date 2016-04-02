@@ -1,0 +1,186 @@
+body{
+	background-image: url('../img/background.jpg');
+	overflow-x: hidden;
+}
+
+.main-image{
+	text-align: center;
+	vertical-align: middle;
+	position: relative;
+	top:150px;
+}
+
+.mainpageoption{
+	font-family: Comic Sans MS;
+	font-size: 28px;
+	color: red;
+	position: relative;
+	top:350px;
+	text-align: center;
+}
+
+.playgame{
+	visibility: hidden;
+}
+
+.chips{
+	position: relative;
+	top:200px;
+}
+
+.balance{
+	position: absolute;
+	font-size: 26px;
+	font-family: Comic Sans MS;
+	color: white;
+	top:160px;
+}
+
+.redeal {
+	position: absolute;
+	font-size: 26px;
+	font-family: Comic Sans MS;
+	color: black;
+	top:140px;
+}
+.double{
+	position: absolute;
+	font-size: 26px;
+	font-family: Comic Sans MS;
+	color: black;
+	top:140px;
+}
+
+.bet {
+	position: absolute;
+	font-size: 26px;
+	font-family: Comic Sans MS;
+	color: black;
+	top:140px;
+}
+
+.hit{
+	position: absolute;
+	font-size: 26px;
+	font-family: Comic Sans MS;
+	color: black;
+	top:140px;
+}
+
+.your-bet{
+	position: absolute;
+	font-size: 26px;
+	font-family: Comic Sans MS;
+	color: black;
+	top:70px;
+}
+
+.dealer1{
+	position: absolute;
+	top: -210px;
+}
+.dealer2{
+	position: absolute;
+	padding-left:20px;
+	top: -210px;
+}
+.dealer3{
+	position: absolute;
+	padding-left:40px;
+	top: -210px;
+}
+.dealer4{
+	position: absolute;
+	padding-left:60px;
+	top: -210px;
+}
+.dealer5{
+	position: absolute;
+	padding-left:80px;
+	top: -210px;
+}
+.dealer6{
+	position: absolute;
+	padding-left:100px;
+	top: -210px;
+}
+.dealer7{
+	position: absolute;
+	padding-left:120px;
+	top: -210px;
+}
+.dealer8{
+	position: absolute;
+	padding-left:140px;
+	top: -210px;
+}
+.dealer9{
+	position: absolute;
+	padding-left:160px;
+	top: -210px;
+}
+.dealer10{
+	position: absolute;
+	padding-left:180px;
+	top: -210px;
+}
+.dealer11{
+	position: absolute;
+	padding-left:200px;
+	top: -210px;
+}
+
+.player1{
+	position: absolute;
+	top: -210px;
+}
+.player2{
+	position: absolute;
+	padding-left:20px;
+	top: -210px;
+}
+.player3{
+	position: absolute;
+	padding-left:40px;
+	top: -210px;
+}
+.player4{
+	position: absolute;
+	padding-left:60px;
+	top: -210px;
+}
+.player5{
+	position: absolute;
+	padding-left:80px;
+	top: -210px;
+}
+.player6{
+	position: absolute;
+	padding-left:100px;
+	top: -210px;
+}
+.player7{
+	position: absolute;
+	padding-left:120px;
+	top: -210px;
+}
+.player8{
+	position: absolute;
+	padding-left:140px;
+	top: -210px;
+}
+.player9{
+	position: absolute;
+	padding-left:160px;
+	top: -210px;
+}
+.player10{
+	position: absolute;
+	padding-left:180px;
+	top: -210px;
+}
+.player11{
+	position: absolute;
+	padding-left:200px;
+	top: -210px;
+}
